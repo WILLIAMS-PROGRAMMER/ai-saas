@@ -1,0 +1,12 @@
+# npx shadcn-ui@latest init
+# npx shadcn-ui@latest init -> Default -> Slate
+
+#Replicate API
+#Open AI API
+
+#PrismaDB & planetscale
+ npm i @prisma/client
+
+ Stripe
+
+ npm run lint para ver errores antes de produccion
